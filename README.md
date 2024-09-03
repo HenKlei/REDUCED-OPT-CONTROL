@@ -20,7 +20,7 @@
 In this repository, we provide the code used for the numerical experiments in our paper "Two-stage model reduction
 approaches for the efficient and certified solution of parametrized optimal control problems" by Hendrik Kleikamp and Lukas Renelt.
 
-You find the preprint [here](https://arxiv.org/abs/tba).
+You find the preprint [here](https://arxiv.org/abs/2408.15900).
 
 ## Installation
 On a system with `git` (`sudo apt install git`), `python3` (`sudo apt install python3-dev`) and
