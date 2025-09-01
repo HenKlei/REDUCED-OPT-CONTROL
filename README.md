@@ -9,7 +9,7 @@
 #
 #   https://github.com/HenKlei/REDUCED-OPT-CONTROL.git
 #
-# Copyright 2024 all developers. All rights reserved.
+# Copyright 2024 all developers.
 # License: Licensed as BSD 2-Clause License (http://opensource.org/licenses/BSD-2-Clause)
 # Authors:
 #   Hendrik Kleikamp, Lukas Renelt
@@ -20,7 +20,7 @@
 In this repository, we provide the code used for the numerical experiments in our paper "Two-stage model reduction
 approaches for the efficient and certified solution of parametrized optimal control problems" by Hendrik Kleikamp and Lukas Renelt.
 
-You find the preprint [here](https://arxiv.org/abs/2408.15900).
+You find the paper [here](https://link.springer.com/article/10.1007/s10915-025-02988-w) (the preprint is available [here](https://arxiv.org/abs/2408.15900)).
 
 ## Installation
 On a system with `git` (`sudo apt install git`), `python3` (`sudo apt install python3-dev`) and
