@@ -41,4 +41,4 @@ A smaller cookies example with less time steps that runs in about 15 minutes on 
 [`cookies_simplified.py`](ml_control/examples/completely_reduced/cookies_simplified.py).
 
 ## Questions
-If you have any questions, feel free to contact us via email at <hendrik.kleikamp@uni-muenster.de>.
+If you have any questions, feel free to contact us via email at <hendrik.kleikamp@uni-graz.at>.
